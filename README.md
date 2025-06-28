@@ -31,6 +31,9 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 - Scikit-learn
 - Jupyter Notebook
 
+## 🗂️ Project Structure
+<pre lang="markdown"> ``` employee-retention-project/ ├── data/ │ └── employee_data.csv ├── notebooks/ │ └── employee_retention_analysis.ipynb ├── models/ │ └── best_model.pkl ├── docs/ │ ├── project_proposal.docx │ └── executive_summary.pptx ├── images/ │ └── feature_importance.png │ └── model_selection_process.png ├── README.md ``` </pre>
+
 ---
 ---
 ***Note***
