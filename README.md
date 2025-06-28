@@ -35,19 +35,19 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 ```
 employee-retention-project/
 ├── data/
-│   └── HR_capstone_dataset.csv             # Dataset file
+│   └── HR_capstone_dataset.csv           # Dataset file
 ├── deliverables/
-│   ├── ExecutiveSummary.pdf        # Proposal document
-│   └── ProjectProposal.pdf         # Executive summary slide
-├── models/                         # # Saved trained models
+│   ├── ExecutiveSummary.pdf              # Proposal document
+│   └── ProjectProposal.pdf               # Executive summary slide
+├── models/                               # Saved trained models
 │   └── decision_tree_salifort.pkl               
 |   └── log_reg_salifort.pkl              
 |   └── random_forest_salifort.pkl             
 |   └── xgboost_salifort.pkl               
 ├── visuals/
-│   └── model_selection_process.png   # Image used in the project
-├── employee_retention_notebook.ipynb # Jupyter Notebook (main analysis)
-├── README.md                         # Project overview and documentation
+│   └── model_selection_process.png       # Image used in the project
+├── employee_retention_notebook.ipynb     # Jupyter Notebook (main analysis)
+├── README.md                             # Project overview and documentation
 ```
 
 ---
