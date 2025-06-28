@@ -31,8 +31,8 @@ employee-retention-project/
 ├── data/
 │   └── HR_capstone_dataset.csv           # Dataset file
 ├── deliverables/
-│   ├── ExecutiveSummary.pdf              # Proposal document
-│   └── ProjectProposal.pdf               # Executive summary slide
+│   ├── ExecutiveSummary.pdf              # Executive summary
+│   └── ProjectProposal.pdf               # Project Proposal
 ├── models/                               # Saved trained models
 │   └── decision_tree_salifort.pkl               
 |   └── log_reg_salifort.pkl              
