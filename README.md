@@ -17,12 +17,6 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 5. Model evaluation & selection
 6. Insights and recommendations
 
-## 📁 Files
-- `ProjectProposal.pdf`: Project proposal
-- `ExecutiveSummary.pptx`: Executive Summary
-- `employee_retention.ipynb`: Full notebook analysis
-- `dataset/`: Data used in the analysis
-- `models/`: Trained model files (Pickle format)
 
 
 ## 🧰 Tools & Technologies Used
