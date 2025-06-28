@@ -9,7 +9,7 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 - Predict which employees are likely to leave using ML models.
 - Offer actionable recommendations for employee retention strategies.
 
-## The project follows a full data science pipeline:
+## 🧠 The project follows a full data science pipeline:
 1. Data cleaning & preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Feature engineering
@@ -17,9 +17,9 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 5. Model evaluation & selection
 6. Insights and recommendations
 
-## Files
+## 📁 Files
 - `ProjectProposal.pdf`: Project proposal
-- `ExecutiveSummary.pptx`: Summary presentation
+- `ExecutiveSummary.pptx`: Executive Summary
 - `employee_retention.ipynb`: Full notebook analysis
 - `dataset/`: Data used in the analysis
 - `models/`: Trained model files (Pickle format)
@@ -31,7 +31,8 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 - Scikit-learn
 - Jupyter Notebook
 
-
+---
+---
 ***Note***
 * Resources such as the dataset, supporting images, and documentation templates (for executive summary and project proposal) were obtained from the [Google Advanced Data Analytics Professional Certificate on Coursera](https://www.coursera.org/programs/department-for-communities-avsxy/professional-certificates/google-advanced-data-analytics). 
 
