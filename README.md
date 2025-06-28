@@ -32,10 +32,23 @@ Salifort Corporation has experienced an increased employee turnover rate. This p
 - Jupyter Notebook
 
 ## 🗂️ Project Structure
-<pre lang="markdown"> ``` employee-retention-project/ ├── data/ │ └── employee_data.csv ├── notebooks/ │ └── employee_retention_analysis.ipynb ├── models/ │ └── best_model.pkl ├── docs/ │ ├── project_proposal.docx │ └── executive_summary.pptx ├── images/ │ └── feature_importance.png │ └── model_selection_process.png ├── README.md ``` </pre>
+```
+employee-retention-project/
+├── data/
+│   └── employee_data.csv             # Dataset file
+├── docs/
+│   ├── project_proposal.docx         # Proposal document
+│   └── executive_summary.pptx        # Executive summary slide
+├── models/
+│   └── final_model.pkl               # Saved trained model
+├── visuals/
+│   └── model_selection_process.png   # Image used in the project
+├── employee_retention_notebook.ipynb # Jupyter Notebook (main analysis)
+├── README.md                         # Project overview and documentation
+```
 
 ---
 ---
 ***Note***
-* Resources such as the dataset, supporting images, and documentation templates (for executive summary and project proposal) were obtained from the [Google Advanced Data Analytics Professional Certificate on Coursera](https://www.coursera.org/programs/department-for-communities-avsxy/professional-certificates/google-advanced-data-analytics). 
+* Resources such as the dataset, supporting visuals, and documentation templates (for executive summary and project proposal) were obtained from the [Google Advanced Data Analytics Professional Certificate on Coursera](https://www.coursera.org/programs/department-for-communities-avsxy/professional-certificates/google-advanced-data-analytics). 
 
